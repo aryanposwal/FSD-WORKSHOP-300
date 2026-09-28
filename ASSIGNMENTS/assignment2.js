@@ -13,7 +13,7 @@ const server = http.createServer((req, res) => {
   }
 
   else if (url === "/create" && method === "POST") {
-    const data = {
+    const data = {````````````````````
       id: 101,
       name: "ABCD",
       email: "abcd25b101.abes.ac.in"
